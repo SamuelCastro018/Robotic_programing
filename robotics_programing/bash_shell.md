@@ -40,7 +40,7 @@ Without a --global flag settings will only apply to the current repository that 
 ##git branch
 To determine what branch the local repository is on, add a new branch, or delete a branch.
 ´´´sh
-
+samuel
 ##git remote
 To connect a local repository with a remote repository. 
 A remote repository can have a name set to avoid having to remember the URL of the repository.
