@@ -1,4 +1,4 @@
-# Commands to create diractor ( Bash )
+# Commands to create directorys ( Bash )
 
 ## ls — List directory contents
 
